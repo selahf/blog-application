@@ -18,10 +18,15 @@ assignment first.
 This is a project which helped me to learn how to create a blog through Django
 in which users can read, create, edit, and delete posts.
 
-Superuser Credentials:
+Superuser Credentials: (don't worry - I don't use this password anywhere else)
 - Username: selahf
 - Password: webappdev
-(don't worry - I don't use this password anywhere else)
+
+The commits associated with this assignment were:
+```
+Blog post website
+Updating README
+```
 
 ## Personal Website
 
